@@ -7,8 +7,10 @@
 # scikit-learn
 
 streamlit
-tensorflow==2.16.1
-numpy
+tensorflow-cpu==2.16.1
+numpy==1.26.4
 pandas
 scikit-learn
+joblib
 h5py
+protobuf==4.25.3
