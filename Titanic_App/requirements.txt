@@ -1,7 +1,14 @@
+# streamlit
+# tensorflow==2.16.1
+# joblib
+# numpy
+# pandas
+# matplotlib
+# scikit-learn
+
 streamlit
 tensorflow==2.16.1
-joblib
 numpy
 pandas
-matplotlib
 scikit-learn
+h5py
